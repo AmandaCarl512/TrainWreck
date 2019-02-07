@@ -1,0 +1,25 @@
+body {
+    background-image: url('paris.jpeg');
+  }
+
+.jumbotron{
+    height: 200px;
+    padding-top: 10px;
+}
+
+.card-header{
+    color: white;
+    font-size: 30px;
+    padding: 10px;
+    background-color: pink;
+}
+
+.row2{
+    width: 300px;
+    background-color: white;
+    color: pink;
+}
+
+#trainTableBody{
+    background-color: white;
+}
